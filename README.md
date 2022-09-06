@@ -1,4 +1,4 @@
-# Mark 2: Check you GK?
+# Mark 2: Check your GK?
 
     *   It's an simple NodeJS app to test your general knowledge.
     *   It takes an useranme as input and shown you a greeting message and to proceed to the quiz
